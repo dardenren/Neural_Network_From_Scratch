@@ -8,7 +8,3 @@ The Jupyter Notebook contains a guide on coding an FNN from scratch.
 However, the model does not converge well because I was ambitious and implemented many features such as optimization and normalization. 
 
 I intend to work on this project again once I have a solid grasp of higher level mathematics.
-
-
-*Future plans*
-1) Implement
